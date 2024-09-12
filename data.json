@@ -1,0 +1,187 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Capital hill residence",
+            "place": "Manchester",
+            "price": "$5527.00",
+            "bedroom": 6,
+            "kitchen": 2,
+            "bathroom ": 3,
+            "image":"/images/house1.png"
+        },
+        {
+            "id": 2,
+            "title": "Picket Fence Realty",
+            "place": "Manchester",
+            "price": "$6727.00",
+            "bedroom": 6,
+            "kitchen": 2,
+            "bathroom ": 3,
+            "image": "/images/house2.png"
+        },
+        {
+            "id": 3,
+            "title": "Banyon Tree Realty",
+            "place": "Manchester",
+            "price": "$4327.00",
+            "bedroom": 5,
+            "kitchen": 2,
+            "bathroom ": 2,
+            "image": "/images/house3.png"
+        },
+        {
+            "id": 4,
+            "title": "Corsair Real Estate",
+            "place": "Manchester",
+            "price": "$4427.00",
+            "bedroom": 7,
+            "kitchen": 3,
+            "bathroom ": 2,
+            "image": "/images/house4.png"
+        },
+        {
+            "id": 5,
+            "title": "Sequoia Real Estate",
+            "place": "Manchester",
+            "price": "$6727.00",
+            "bedroom": 6,
+            "kitchen": 2,
+            "bathroom ": 3,
+            "image": "/images/house5.png"
+        },
+        {
+            "id": 6,
+            "title": "Strive Partners Realty",
+            "place": "Manchester",
+            "price": "$5527.00",
+            "bedroom": 4,
+            "kitchen": 1,
+            "bathroom ": 2,
+            "image": "/images/house6.png"
+        },
+
+
+
+              {
+            "id": 7,
+            "title": "Capital hill residence",
+            "place": "Liverpool",
+            "price": "$9999.00",
+            "bedroom": 6,
+            "kitchen": 2,
+            "bathroom ": 3,
+            "image": "/images/house1.png"
+        },
+        {
+            "id": 8,
+            "title": "Picket Fence Realty",
+            "place": "Liverpool",
+            "price": "$3727.00",
+            "bedroom": 6,
+            "kitchen": 2,
+            "bathroom ": 3,
+            "image": "/images/house2.png"
+        },
+        {
+            "id": 9,
+            "title": "Banyon Tree Realty",
+            "place": "Liverpool",
+            "price": "$5327.00",
+            "bedroom": 5,
+            "kitchen": 2,
+            "bathroom ": 2,
+            "image": "/images/house3.png"
+        },
+        {
+            "id": 10,
+            "title": "Corsair Real Estate",
+            "place": "Liverpool",
+            "price": "$7427.00",
+            "bedroom": 7,
+            "kitchen": 3,
+            "bathroom ": 2,
+            "image": "/images/house4.png"
+        },
+        {
+            "id": 11,
+            "title": "Sequoia Real Estate",
+            "place": "Liverpool",
+            "price": "$8727.00",
+            "bedroom": 6,
+            "kitchen": 2,
+            "bathroom ": 3,
+            "image": "/images/house5.png"
+        },
+        {
+            "id": 12,
+            "title": "Strive Partners Realty",
+            "place": "Liverpool",
+            "price": "$3527.00",
+            "bedroom": 4,
+            "kitchen": 1,
+            "bathroom ": 2,
+            "image": "/images/house6.png"
+        },
+        {
+            "id": 13,
+            "title": "Capital hill residence",
+            "place": "Lidc",
+            "price": "$5557.00",
+            "bedroom": 6,
+            "kitchen": 2,
+            "bathroom ": 3,
+            "image": "/images/house1.png"
+        },
+        {
+            "id": 14,
+            "title": "Picket Fence Realty",
+            "place": "Lidc",
+            "price": "$6787.00",
+            "bedroom": 6,
+            "kitchen": 2,
+            "bathroom ": 3,
+            "image": "/images/house2.png"
+        },
+        {
+            "id": 15,
+            "title": "Banyon Tree Realty",
+            "place": "Lidc",
+            "price": "$42222.00",
+            "bedroom": 5,
+            "kitchen": 2,
+            "bathroom ": 2,
+            "image": "/images/house3.png"
+        },
+        {
+            "id": 16,
+            "title": "Corsair Real Estate",
+            "place": "Lidc",
+            "price": "$4127.00",
+            "bedroom": 7,
+            "kitchen": 3,
+            "bathroom ": 2,
+            "image":"/images/house4.png"
+        },
+        {
+            "id": 17,
+            "title": "Sequoia Real Estate",
+            "place": "Lidc",
+            "price": "$6927.00",
+            "bedroom": 6,
+            "kitchen": 2,
+            "bathroom ": 3,
+            "image": "/images/house5.png"
+        },
+        {
+            "id": 18,
+            "title": "Strive Partners Realty",
+            "place": "Lidc",
+            "price": "$5127.00",
+            "bedroom": 4,
+            "kitchen": 1,
+            "bathroom ": 2,
+            "image": "/images/house6.png"
+        }
+    ]
+}
