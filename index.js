@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3000/products';
+const API_URL = 'https://66e2afb8494df9a478e2a726.mockapi.io/items';
 
 const PRODUCTS_LIMIT = 12;
 
